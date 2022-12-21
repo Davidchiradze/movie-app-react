@@ -4,7 +4,8 @@
         "genre":"Comedy",
         "stock":7,
         "rate":3.5,
-        "favourites":true
+        "favourites":true,
+        "img":"https://flxt.tmsimg.com/assets/p1671_p_v8_ae.jpg"
     },
     {
         "id":1,
@@ -12,7 +13,10 @@
         "genre":"Action",
         "stock":5,
         "rate":2.5,
-        "favourites":false
+        "favourites":false,
+        "img":"https://m.media-amazon.com/images/M/MV5BZjRlNDUxZjAtOGQ4OC00OTNlLTgxNmQtYTBmMDgwZmNmNjkxXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg"
+
+
     },
     {
         "id":2,
@@ -20,7 +24,8 @@
         "genre":"Thriller",
         "stock":8,
         "rate":3.5,
-        "favourites":false
+        "favourites":false,
+        "img":"https://upload.wikimedia.org/wikipedia/en/a/a3/Get_Out_poster.png"
     },
     {
         "id":3,
@@ -28,7 +33,8 @@
         "genre":"Thriller",
         "stock":7,
         "rate":4.5,
-        "favourites":false
+        "favourites":false,
+        "img":"https://m.media-amazon.com/images/M/MV5BMTk0MDQ3MzAzOV5BMl5BanBnXkFtZTgwNzU1NzE3MjE@._V1_FMjpg_UX1000_.jpg"
     },
     {
         "id":4,
@@ -36,7 +42,8 @@
         "genre":"Comedy",
         "stock":7,
         "rate":3.5,
-        "favourites":true
+        "favourites":true,
+        "img":"https://flxt.tmsimg.com/assets/p1671_p_v8_ae.jpg"
     },
     {
         "id":5,
@@ -44,7 +51,8 @@
         "genre":"Action",
         "stock":6,
         "rate":2.5,
-        "favourites":true
+        "favourites":true,
+        "img":"https://m.media-amazon.com/images/M/MV5BYTViNzMxZjEtZGEwNy00MDNiLWIzNGQtZDY2MjQ1OWViZjFmXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_.jpg"
     },
     {
         "id":6,
@@ -52,7 +60,8 @@
         "genre":"Action",
         "stock":7,
         "rate":3.5,
-        "favourites":true
+        "favourites":true,
+        "img":"https://terrigen-cdn-dev.marvel.com/content/prod/1x/avengersendgame_lob_crd_05_2.jpg"
     },
     {
         "id":7,
@@ -60,6 +69,7 @@
         "genre":"Thriller",
         "stock":4,
         "rate":3.5,
-        "favourites":true
+        "favourites":true,
+        "img":"https://upload.wikimedia.org/wikipedia/en/a/a4/The_Sixth_Sense_poster.png"
     }
     ]
