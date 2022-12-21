@@ -1,0 +1,65 @@
+    [{
+        "id":0,
+        "name":"Airplane",
+        "genre":"Comedy",
+        "stock":7,
+        "rate":3.5,
+        "favourites":true
+    },
+    {
+        "id":1,
+        "name":"Die Hard",
+        "genre":"Action",
+        "stock":5,
+        "rate":2.5,
+        "favourites":false
+    },
+    {
+        "id":2,
+        "name":"Get Out",
+        "genre":"Thriller",
+        "stock":8,
+        "rate":3.5,
+        "favourites":false
+    },
+    {
+        "id":3,
+        "name":"Gone Girl",
+        "genre":"Thriller",
+        "stock":7,
+        "rate":4.5,
+        "favourites":false
+    },
+    {
+        "id":4,
+        "name":"Airplane",
+        "genre":"Comedy",
+        "stock":7,
+        "rate":3.5,
+        "favourites":true
+    },
+    {
+        "id":5,
+        "name":"Terminator",
+        "genre":"Action",
+        "stock":6,
+        "rate":2.5,
+        "favourites":true
+    },
+    {
+        "id":6,
+        "name":"The Avengers",
+        "genre":"Action",
+        "stock":7,
+        "rate":3.5,
+        "favourites":true
+    },
+    {
+        "id":7,
+        "name":"The Sixth Sense",
+        "genre":"Thriller",
+        "stock":4,
+        "rate":3.5,
+        "favourites":true
+    }
+    ]
